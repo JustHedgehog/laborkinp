@@ -1,12 +1,9 @@
 #include <iostream>
 
-using namespace std;
-
 int main()
 {
 
-	cout<<"ciekawe";
-
+	printf("Witamy w wielkim swiecie");
 
 	return 0;
 
