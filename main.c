@@ -15,6 +15,7 @@ int main()
 	scanf("%i" , &b);
 
 	printf("Oto wynik odejmowania : %i" , odejmowanie(a,b));
+	printf("Oto wynik mnozenia:	%i" , mnozenie(a, b));
 
 	return 0;
 
