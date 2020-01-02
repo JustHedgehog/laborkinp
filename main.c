@@ -1,5 +1,5 @@
-#include <iostream>
-#include "odejmowanie.c"
+#include <stdio.h>
+#include "naglowki.h"
 
 //nad tym wrzucie linki do plikow
 
